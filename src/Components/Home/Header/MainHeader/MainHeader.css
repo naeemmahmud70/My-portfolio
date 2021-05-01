@@ -1,0 +1,16 @@
+.name-color{
+    color: brown;
+}
+.height{
+    height: auto;
+}
+.image-size img{
+    width: 400px;
+}
+.btn-style{
+    border: 0;
+    border-radius: 5px;
+    padding: 10px 15px;
+    background-color:brown;
+    color: white;
+}
