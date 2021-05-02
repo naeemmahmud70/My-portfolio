@@ -18,7 +18,7 @@ const Navbar = () => {
                             <a class="nav-link active ms-5 text-white" href="#about">About</a>
                         </li>
                         <li class="nav-item fw-bold">
-                            <a class="nav-link active ms-5 text-white" href="#skill">Skill</a>
+                            <a class="nav-link active ms-5 text-white" href="#projects">Projects</a>
                         </li>
                     </ul>
                 </div>

@@ -1,4 +1,5 @@
 import React from 'react';
+import Projects from '../Projects/Projects';
 import About from './About/About';
 import Header from './Header/Header';
 import './Home.css'
@@ -10,6 +11,7 @@ const Home = () => {
            <Header></Header>
            <About></About>
            <Skills></Skills>
+           <Projects></Projects>
         </div>
     );
 };

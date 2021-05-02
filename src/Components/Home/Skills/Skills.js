@@ -5,7 +5,7 @@ const Skills = () => {
     return (
         <div id="skill" className="p-5 d-flex justify-content-center" style={{ height: 'auto', backgroundColor: "#1E2749" }}>
             <div className="w-75">
-                <h2 className="">My Skills</h2>
+                <h2 className="text-white">My <span style={{color:'red'}}>Skills</span></h2>
                 <div className="text-white m-3">
                     <h5>CSS</h5>
                     <ProgressBar bgColor="#ffcb33" completed={80} />
