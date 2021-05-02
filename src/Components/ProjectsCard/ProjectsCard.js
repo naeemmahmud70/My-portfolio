@@ -10,8 +10,8 @@ const ProjectsCard = ({ website }) => {
                 <img src={image} alt="" />
             </div>
             <div className="">
-                <strong>{heading}</strong>
-                <p>{description}</p>
+                <strong className="text-white">{heading}</strong>
+                <p className="text-justify text-white">{description}</p>
             </div>
             <div className="d-flex justify-content-around align-items-end">
                 <div>

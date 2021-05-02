@@ -1,0 +1,18 @@
+.icon-style img{
+    width: 150px;
+}
+.icon-style{
+    background-color: rgba(128, 128, 128, 0.829);
+}
+.service-div-style{
+    height: 320px;
+    width: 300px;
+    border-radius: 4px;
+    background-color: rgb(44, 49, 110);
+}
+.service-flex-style{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}

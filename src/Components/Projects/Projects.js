@@ -16,7 +16,7 @@ const Projects = () => {
         id: 2,
         project: "FoodLand",
         heading: "FoodLand is a grocery shop full stack website.",
-        description: "Here a user can see many kind of grocery products. When he will go to by a products he have to authenticated by email password and gmail account. User can see total purchased list and costs. After submitted order user can see a memo.",
+        description: "Here a user can see many kind of grocery products. When he will go to by a products he have to authenticated by email password and gmail account. User can see total purchased list and costs. After submitted order user can see a memo. Admin can add and remove products",
         preview: "https://grocery-shoap.web.app/",
         client: "https://github.com/naeemmahmud70/grocery-shoap-client",
         server: "https://github.com/naeemmahmud70/grocery-shoap-server",
@@ -25,7 +25,7 @@ const Projects = () => {
         id: 3,
         project: "Easy Rider",
         heading: "Easy Rider is a car transporting fronted website.",
-        description: "This is a transport website where a user can see few car. User can fair any of car for his transport. After clicking car name he will go to another page and user will see the fair and sit. User can set destination and user will her/his destination by map.",
+        description: "This is a transport website where a user can see few car. User can fair any of car for his transport. After clicking car name he will go to another page and user will see the fair and total capacity of the specific car. User can set destination and user will her/his destination by map.",
         preview: "https://rider-assignment.web.app/",
         client: "https://github.com/naeemmahmud70/easy-rider",
         image: "https://i.postimg.cc/pX3vCTy4/rider.png"
