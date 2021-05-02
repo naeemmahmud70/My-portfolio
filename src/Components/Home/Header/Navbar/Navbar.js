@@ -20,6 +20,9 @@ const Navbar = () => {
                         <li class="nav-item fw-bold">
                             <a class="nav-link active ms-5 text-white" href="#projects">Projects</a>
                         </li>
+                        <li class="nav-item fw-bold">
+                            <a class="nav-link active ms-5 text-white" href="#contact">Contact Me</a>
+                        </li>
                     </ul>
                 </div>
             </div>
