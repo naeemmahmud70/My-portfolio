@@ -1,16 +1,17 @@
 import React from 'react';
-import image from '../../../pic2.png'
+import image from '../../../pic3.png'
 import './About.css'
 
 const About = () => {
     return (
         <div id="about" style={{ height: 'auto', backgroundColor: '#1E2749' }}>
+            <div className="container">
             <div className='text-center text-color'>
               
                 <h2 >About Me</h2>
             </div>
             <div className="row mt-5">
-                <div className='col-md-5 '>
+                <div className='col-md-5 p-5 '>
                     <img className="img-fluid px-4"  src={image} alt="" />
                 </div>
                 <div className="col-md-7 d-flex align-items-center mt-3">
@@ -26,6 +27,7 @@ const About = () => {
                         <h5>Email: naeemmahmud370@gmail.com</h5>
                     </div>
                 </div>
+            </div>
             </div>
         </div>
     );

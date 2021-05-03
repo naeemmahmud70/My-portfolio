@@ -10,7 +10,7 @@ import Skills from './Skills/Skills';
 
 const Home = () => {
     return (
-        <div style={{backgroundColor:''}} className="container">
+        <div style={{backgroundColor:''}} className="container-fluid">
            <Header></Header>
            <About></About>
            <Skills></Skills>

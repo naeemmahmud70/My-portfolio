@@ -5,7 +5,7 @@
     height: auto;
 }
 .image-size img{
-    width: 400px;
+    pad: 5px;
 }
 .btn-style{
     border: 0;

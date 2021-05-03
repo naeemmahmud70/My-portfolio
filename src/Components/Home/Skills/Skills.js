@@ -3,7 +3,7 @@ import ProgressBar from "@ramonak/react-progress-bar";
 
 const Skills = () => {
     return (
-        <div id="skill" className="p-5 d-flex justify-content-center" style={{ height: 'auto', backgroundColor: "#1E2749" }}>
+        <div id="skills" className="p-5 d-flex justify-content-center" style={{ height: 'auto', backgroundColor: "#1E2749" }}>
             <div className="w-75">
                 <h2 className="text-white">My <span style={{color:'red'}}>Skills</span></h2>
                 <div className="text-white m-3">
